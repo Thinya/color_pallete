@@ -11,3 +11,6 @@ let awa = ['#FFFFFF','#F6D4D8','#DEDFEF','#EEF5D3','#C9E8F1','#C6EDDB','#CBE6F3'
 
 //暗い色,6色
 let kura = ['#3A204D','#723D09','#797505','#004928','#005047','#5A2C4A'];
+
+//クリスマス -Christmas-
+let pallete = ["#C92629","#33743B","#FFFFFF","#A6AAAD","#9F863F","#A98858","#B60B20","#5B362C","#14793A"];
